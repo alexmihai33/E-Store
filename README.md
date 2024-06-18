@@ -10,6 +10,8 @@
 5. Run ng build in your terminal
 6. Run the project with ng serve
 
+Disclaimer: on this branch there's the frontend, and on the branch named "backend" you can find the backend files(including the sql script)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Description
